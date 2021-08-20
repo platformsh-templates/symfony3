@@ -1,3 +1,5 @@
+> **Note:** This template has been archived alongside Symfony3 EOL. You are free to continue using it as a reference, but it is recommended that you use the [Symfony4](https://github.com/platformsh-templates/symfony4) and [Symfony5](https://github.com/platformsh-templates/symfony5) projects instead.
+
 # Symfony 3 for Platform.sh
 
 <p align="center">
